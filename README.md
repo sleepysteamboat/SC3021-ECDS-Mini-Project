@@ -4,7 +4,9 @@
 SC3021 ECDS2 Group 5 project comparing borrower default risk across secured
 and unsecured consumer lending.
 
-**Authors:** Chua Yee Han, Heidi Khoo
+## Authors
+* **Heidi** - [@sleepysteamboat](https://github.com/sleepysteamboat)
+* **Yee Han** - [@yeexhxn](https://github.com/yeexhxn)
 
 ## Research Questions
 
