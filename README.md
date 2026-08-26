@@ -1,5 +1,4 @@
-# SC3021-ECDS-Mini-Project
-# Default Risk Prediction Across Lending Contexts
+# SC3021-ECDS-Mini-Project: Default Risk Prediction Across Lending Contexts
 
 SC3021 ECDS2 Group 5 project comparing borrower default risk across secured
 and unsecured consumer lending.
